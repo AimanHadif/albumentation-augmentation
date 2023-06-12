@@ -8,7 +8,7 @@
 
 
 ## Example of Augmentation on Dog Image
-![AugDog1](https://drive.google.com/file/d/1hXM0TUfj3QNY3TVCQ-runO8HMXjTiYyd/view?usp=drive_link)
+![AugDog1](images/augmented_1_dog_example.jpg)
 ![AugDog2](https://drive.google.com/file/d/1Igr3eNbPEaEh4h0vzMixVcyTB3XOtuBQ/view?usp=drive_link)
 ![AugDog3](https://drive.google.com/file/d/1T9EWDU_gL1JCBhBfu464TBPMyqpcf-6v/view?usp=drive_link)
 ![AugDog4](https://drive.google.com/file/d/1XNXfrsTyKK3znq_kU2_iuZi-I4ztWD3R/view?usp=drive_link)
