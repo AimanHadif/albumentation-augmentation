@@ -5,7 +5,7 @@
 
 ## Example of Original Dog Image
 <!-- ![ORIDOG](https://hips.hearstapps.com/hmg-prod/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=0.752xw:1.00xh;0.175xw,0&resize=1200:*) -->
-<img src="https://hips.hearstapps.com/hmg-prod/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=0.752xw:1.00xh;0.175xw,0&resize=1200:*" alt="Ori Dog" width="400">
+<img src="https://hips.hearstapps.com/hmg-prod/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=0.752xw:1.00xh;0.175xw,0&resize=1200:*" alt="Ori Dog" width="300">
 
 - Some different Augmentation parameters can be found : https://albumentations.ai/docs/getting_started/image_augmentation/
 - Depending on your image classification task, keep in mind that some of the parameters should not be used as it will change the traits of the image completely
@@ -29,4 +29,14 @@
 - It is important to know the task that you are trying to do while also implementing the parameters
 - For example, if you are doing a color classification, it is important to understand your data and keep in mind whether to put parameters that can change the color scheme
 
+Original Image : <br>
+<img src="images/amongus-original.jpg" alt="amongus" width="200">
 
+HSV Shift : <br>
+<img src="images/amongus-HSV.jpg" alt="amongushsv" width="200">
+
+RGB Shift : <br>
+<img src="images/amongus-rgbShift.jpg" alt="amongusrgb" width="200">
+
+Gray Scale : <br>
+<img src="images/amongus_gray.jpg" alt="amongusgray" width="200">
